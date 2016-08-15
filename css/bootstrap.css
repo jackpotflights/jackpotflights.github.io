@@ -1235,8 +1235,8 @@ h3,
 }
 h1 small,
 .h1 small,
-/*h2 small,
-.h2 small,*/
+h2 small,
+.h2 small,
 h3 small,
 .h3 small,
 h1 .small,
@@ -1246,10 +1246,6 @@ h2 .small,
 h3 .small,
 .h3 .small {
   font-size: 65%;
-}
-h2 small,
-.h2 small {
-font-size: 50%;	
 }
 h4,
 .h4,
@@ -1280,7 +1276,7 @@ h1,
 }
 h2,
 .h2 {
-  font-size: 32px;
+  font-size: 27px;
 }
 h3,
 .h3 {
